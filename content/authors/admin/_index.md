@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Leo Zeng 曾涛
+title: 曾涛
 
 # Name pronunciation (optional)
 name_pronunciation: zēng tāo
