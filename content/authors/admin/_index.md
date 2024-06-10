@@ -31,11 +31,11 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/leotaozeng
   - icon: brands/github
     url: https://github.com/leotaozeng
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/tao-zeng/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
